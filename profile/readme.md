@@ -5,7 +5,7 @@ GenesisOS is custom ROM based on AOSP with nifty little Quality of Life Features
 Go Beyond Ordinary 
 -
 Checkout this repo to compile GenesisOS for your device:
-- [*Manifest*](https://github.com/GenesisOS/manifest)
+- [*Manifest*](https://github.com/genesisosfork/manifest)
 
 Credits
 - [*GenesisOS*](https://github.com/GenesisOS) for base
