@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/GenesisOS/.github/master/profile/GOS-Banner.png)
+![banner](https://raw.githubusercontent.com/genesisosfork/.github/master/profile/GOS-Banner.png)
 
 GenesisOS is custom ROM based on AOSP with nifty little Quality of Life Features to enhance your daily driving experience.
 
